@@ -17,63 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimulationTask
 build_property.RootNamespace = SimulationTask
-build_property.ProjectDir = C:\Users\classtime\Desktop\SimulationTask\SimulationTask\
+build_property.ProjectDir = C:\Users\smart\Source\Repos\SimulationTask\SimulationTask\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\classtime\Desktop\SimulationTask\SimulationTask
+build_property.MSBuildProjectDirectory = C:\Users\smart\Source\Repos\SimulationTask\SimulationTask
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Agent/Create.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Agent/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFnZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Agent/Index.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Agent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFnZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Home/Index.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Agent/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFnZW50XFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Position/Create.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Position/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Position/Index.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Position/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Position/Update.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Position/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0aW9uXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Views/Home/Index.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Views/_ViewImports.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Views/_ViewStart.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/classtime/Desktop/SimulationTask/SimulationTask/Views/Shared/_Layout.cshtml]
+[C:/Users/smart/Source/Repos/SimulationTask/SimulationTask/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n2m7kmscl1

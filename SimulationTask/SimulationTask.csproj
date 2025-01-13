@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Helper\DTOs\**" />
+    <Content Remove="Helper\DTOs\**" />
+    <EmbeddedResource Remove="Helper\DTOs\**" />
+    <None Remove="Helper\DTOs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
@@ -50,6 +57,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
@@ -61,7 +69,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Helper\DTOs\NewFolder\" />
+    <Folder Include="wwwroot\Upload\Agent\" />
   </ItemGroup>
 
 </Project>
