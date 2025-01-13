@@ -30,6 +30,7 @@ namespace SimulationTask.Areas.Manage.Controllers
 
         public IActionResult Create()
         {
+            
             return View();
         }
 
@@ -64,4 +65,4 @@ namespace SimulationTask.Areas.Manage.Controllers
 
     }
 }
-}
+
